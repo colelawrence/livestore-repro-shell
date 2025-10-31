@@ -9,9 +9,9 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "@livestore/adapter-web": "^0.3.1",
-    "@livestore/livestore": "^0.3.1",
-    "@livestore/react": "^0.3.1",
+    "@livestore/adapter-web": "^0.4.0-dev.15",
+    "@livestore/livestore": "^0.4.0-dev.15",
+    "@livestore/react": "^0.4.0-dev.15",
     "@tanstack/react-router": "^1.132.2",
     "effect": "^3.18.4",
     "jotai": "^2.15.0",
@@ -19,7 +19,7 @@
     "react-dom": "^19.1.0"
   },
   "devDependencies": {
-    "@livestore/devtools-vite": "^0.3.1",
+    "@livestore/devtools-vite": "^0.4.0-dev.15",
     "@tanstack/router-plugin": "^1.132.2",
     "@types/react": "^18.3.18",
     "@types/react-dom": "^18.3.5",
